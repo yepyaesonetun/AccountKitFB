@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="ak_background">#ffffff</color>
+    <color name="ak_buttonBackgorundColor">#F439A9</color>
+    <color name="ak_text">#484848</color>
+    <color name="ak_buttonPressedBackgroundColor">#df0e96</color>
+    <color name="ak_buttonTextColor">#f5f5f5</color>
+    <color name="ak_inputTextColor">#44566B</color>
+    <color name="ak_inputBackgroundColor">#fff</color>
+    <color name="ak_statusBarColor">#a70875</color>
+    <color name="ak_iconColor">#df0e96</color>
+    <color name="ak_inputBorderColor">#F439A9</color>
+    <color name="ak_buttonDisableBackgroundColor">#EEF6FF</color>
+</resources>
